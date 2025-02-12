@@ -1,3 +1,4 @@
+![](https://commitcounter.kpphs.com/img)
 # [Notes and shite](https://github.com/ESD211/project_notes/blob/main/README.md)
 
 ---
