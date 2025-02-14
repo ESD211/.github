@@ -1,4 +1,5 @@
 ![](https://commitcounter.kpphs.com/img)
+![](https://commitcounter.kpphs.com/img?no-cache=true)
 # [Notes and shite](https://github.com/ESD211/project_notes/blob/main/README.md)
 
 ---
